@@ -1,0 +1,1 @@
+An extend relationship defines that instances of a use case may be augmented with some additional behavior defined in an extending use case.

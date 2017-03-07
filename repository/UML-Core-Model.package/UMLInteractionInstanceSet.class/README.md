@@ -1,0 +1,1 @@
+An interaction instance set is the set of stimuli that participate in a collaboration instance set.

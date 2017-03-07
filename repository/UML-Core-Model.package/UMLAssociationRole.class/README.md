@@ -1,0 +1,1 @@
+An association role is a specific usage of an association needed in a collaboration.

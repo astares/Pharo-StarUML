@@ -1,0 +1,1 @@
+A model captures a view of physical system. It is an abstraction of the physical system, with a certain purpose. Different Models can be defined for the same physical system, where each model represents a view of the physical system defined by its purpose and abstraction level (for example, an analysis model, a design model, an implementation model).

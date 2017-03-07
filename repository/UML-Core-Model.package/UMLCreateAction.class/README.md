@@ -1,0 +1,1 @@
+A create action is an action resulting in the creation of an instance of some classifier.

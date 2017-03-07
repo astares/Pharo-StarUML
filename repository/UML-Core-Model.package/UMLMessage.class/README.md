@@ -1,0 +1,1 @@
+A message defines a particular communication between instances that is specified in an interaction.

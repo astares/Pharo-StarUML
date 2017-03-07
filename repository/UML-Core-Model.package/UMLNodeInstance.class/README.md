@@ -1,0 +1,1 @@
+A node instance is an instance of a node. A collection of component instances may reside on the node instance.

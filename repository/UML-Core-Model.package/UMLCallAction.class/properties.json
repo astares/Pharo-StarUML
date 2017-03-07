@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TorstenBergmann 3/7/2017 22:04",
+	"super" : "UMLAction",
+	"category" : "UML-Core-Model-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"operation"
+	],
+	"name" : "UMLCallAction",
+	"type" : "normal"
+}

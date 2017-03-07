@@ -1,0 +1,1 @@
+XMI Core Element of an extensible model

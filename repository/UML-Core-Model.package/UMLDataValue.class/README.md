@@ -1,0 +1,1 @@
+A data value is an instance with no identity.

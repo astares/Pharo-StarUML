@@ -1,0 +1,1 @@
+Reifies the relationship between a Binding and one of its arguments (a ModelElement).

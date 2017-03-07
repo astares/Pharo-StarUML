@@ -1,0 +1,1 @@
+A package is a grouping of model elements. In the metamodel Package is a subclass of Namespace and GeneralizableElement. A Package contains ModelElements like Packages, Classifiers, and Associations. A Package may also contain Constraints and Dependencies between ModelElements of the Package.

@@ -1,0 +1,1 @@
+A signal event represents the reception of a particular (asynchronous) signal.

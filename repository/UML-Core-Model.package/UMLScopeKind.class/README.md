@@ -1,0 +1,1 @@
+In the metamodel ScopeKind defines an enumeration that denotes whether a feature belongs to individual instances or an entire classifier.

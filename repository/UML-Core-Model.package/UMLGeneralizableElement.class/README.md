@@ -1,0 +1,1 @@
+A generalizable element is a model element that may participate in a generalization relationship.

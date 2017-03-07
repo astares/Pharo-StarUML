@@ -1,0 +1,1 @@
+A use case instance is the performance of a sequence of actions specified in a use case. In the metamodel UseCaseInstance is a subclass of Instance. Each method performed by a UseCaseInstance is performed as an atomic transaction; that is, it is not interrupted by any other UseCaseInstance. An explicitly described UseCaseInstance is called a scenario.

@@ -1,0 +1,1 @@
+A link object is a link with its own set of attribute values and to which a set of operations may be applied.

@@ -1,0 +1,1 @@
+A submachine state is a state that executes a nested state machine. When an input transition to the submachine state is triggered, execution begins with the nested state machine. The outgoing transitions of a submachine state are enabled when the final state of the nested state machine is reached.

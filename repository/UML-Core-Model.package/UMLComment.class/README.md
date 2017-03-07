@@ -1,0 +1,1 @@
+A comment is an annotation attached to a model element or a set of model elements. It has no semantic force but may contain information useful to the modeler.

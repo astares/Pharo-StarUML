@@ -1,0 +1,1 @@
+A signal accept state is a state with no actions or internal transitions. Its specified event maps to trigger event on the outgoing transition between it and follwing state

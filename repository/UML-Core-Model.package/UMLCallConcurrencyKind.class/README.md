@@ -1,0 +1,1 @@
+An enumeration that denotes the semantics of multiple concurrent calls to the same passive instance; that is, an Instance originating from a Classifier with isActive=false.

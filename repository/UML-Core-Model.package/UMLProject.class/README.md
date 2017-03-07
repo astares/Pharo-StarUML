@@ -1,0 +1,1 @@
+Project means top package that always exists. There can be many packages, models and subsystems under the project.

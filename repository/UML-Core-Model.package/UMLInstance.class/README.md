@@ -1,0 +1,1 @@
+The instance construct defines an entity to which a set of operations can be applied and which has a state that stores the effects of the operations.

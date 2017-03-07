@@ -1,0 +1,1 @@
+An enumeration that denotes what kind of aggregation an Association is. When placed on a target end, specifies the relationship of the target end to the source end.

@@ -1,0 +1,1 @@
+A component represents a modular, deployable, and replaceable part of a system that encapsulates implementation and exposes a set of interfaces.

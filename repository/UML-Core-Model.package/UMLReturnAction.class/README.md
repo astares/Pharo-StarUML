@@ -1,0 +1,1 @@
+A return action is an action that results in returning a value to a caller.

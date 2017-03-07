@@ -1,0 +1,1 @@
+In the metamodel, PseudostateKind defines an enumeration that discriminates the kind of Pseudostate.

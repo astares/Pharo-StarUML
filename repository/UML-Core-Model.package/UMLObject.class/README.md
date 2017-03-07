@@ -1,0 +1,1 @@
+An object is an instance that originates from a class.

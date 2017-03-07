@@ -1,0 +1,1 @@
+A connector end is an endpoint of a connector, which attaches the connector to a connectable element. Each connector end is part of one connector.

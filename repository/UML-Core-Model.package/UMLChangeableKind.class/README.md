@@ -1,0 +1,1 @@
+In the metamodel ChangeableKind defines an enumeration that denotes how an AttributeLink or LinkEnd may be modified.

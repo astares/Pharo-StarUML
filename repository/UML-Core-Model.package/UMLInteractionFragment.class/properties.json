@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "TorstenBergmann 3/7/2017 22:04",
+	"super" : "UMLModelElement",
+	"category" : "UML-Core-Model-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"enclosingInteraction",
+		"enclosingInteractionInstanceSet",
+		"enclosingOperand"
+	],
+	"name" : "UMLInteractionFragment",
+	"type" : "normal"
+}

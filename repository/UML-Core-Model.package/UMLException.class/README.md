@@ -1,0 +1,1 @@
+An exception is a signal raised by behavioral features typically in case of execution faults. 

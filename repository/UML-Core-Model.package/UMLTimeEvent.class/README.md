@@ -1,0 +1,1 @@
+A TimeEvent models the expiration of a specific deadline.

@@ -1,0 +1,1 @@
+A terminate action results in self-destruction of an object.

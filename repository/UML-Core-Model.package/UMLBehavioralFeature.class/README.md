@@ -1,0 +1,1 @@
+A behavioral feature refers to a dynamic feature of a model element, such as an operation or method.

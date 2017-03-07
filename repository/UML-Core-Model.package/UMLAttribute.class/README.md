@@ -1,0 +1,1 @@
+An attribute is a named slot within a classifier that describes a range of values that instances of the classifier may hold.

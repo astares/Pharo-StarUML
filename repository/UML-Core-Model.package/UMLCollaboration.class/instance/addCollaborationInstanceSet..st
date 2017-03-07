@@ -1,0 +1,5 @@
+operating
+addCollaborationInstanceSet: anUMLCollaborationInstanceSet
+	"Adds the given UMLCollaborationInstanceSet to the receivers collaborationInstanceSets."
+	
+	collaborationInstanceSets add: anUMLCollaborationInstanceSet

@@ -1,0 +1,1 @@
+An extension point references one or a collection of locations in a use case where the use case may be extended. In the metamodel an ExtensionPoint has a name and one or a collection of descriptions of locations in the behavior of the owning use case, where a piece of behavior may be inserted into the owning use case.

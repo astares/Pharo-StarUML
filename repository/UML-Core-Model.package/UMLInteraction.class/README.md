@@ -1,0 +1,1 @@
+An interaction specifies the communication between instances performing a specific task. Each interaction is defined in the context of a collaboration.

@@ -1,0 +1,1 @@
+A composite state is a state that contains other state vertices (states, pseudostates, etc.).

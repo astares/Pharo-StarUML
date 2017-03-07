@@ -1,0 +1,1 @@
+An activity graph is a special case of a state machine that defines a computational process in terms of the control-flow and object-flow among its constituent actions. The primary purpose of activity graphs is to describe the states of an activity or process involving one or more classifiers.

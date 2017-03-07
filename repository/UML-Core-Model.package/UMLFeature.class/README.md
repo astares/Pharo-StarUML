@@ -1,0 +1,1 @@
+A feature is a property, like operation or attribute, which is encapsulated within a Classifier.

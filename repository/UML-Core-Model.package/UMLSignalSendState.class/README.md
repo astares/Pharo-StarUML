@@ -1,0 +1,1 @@
+A signal send state is a state with no actions or internal transitions. Its specified action maps to a effect on the incoming transition between it and the previous state.

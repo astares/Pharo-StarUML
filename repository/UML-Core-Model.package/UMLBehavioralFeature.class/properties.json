@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "TorstenBergmann 3/7/2017 22:04",
+	"super" : "UMLFeature",
+	"category" : "UML-Core-Model-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isQuery",
+		"parameters",
+		"raisedSignals"
+	],
+	"name" : "UMLBehavioralFeature",
+	"type" : "normal"
+}

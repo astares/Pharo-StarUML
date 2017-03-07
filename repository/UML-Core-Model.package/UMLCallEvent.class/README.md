@@ -1,0 +1,1 @@
+A call event represents the reception of a request to synchronously invoke a specific operation.

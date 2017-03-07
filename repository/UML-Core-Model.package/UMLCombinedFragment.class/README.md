@@ -1,0 +1,1 @@
+A combined fragment defines an expression of interaction fragments. A combined fragment is defined by an interaction operator and corresponding interaction operands.

@@ -1,0 +1,1 @@
+A link end is an end point of a link. In the metamodel LinkEnd is the part of a Link that connects to an Instance. It corresponds to an AssociationEnd of the Link‚Äôs Association.

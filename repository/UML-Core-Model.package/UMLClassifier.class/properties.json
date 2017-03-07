@@ -1,0 +1,27 @@
+{
+	"commentStamp" : "TorstenBergmann 3/7/2017 22:04",
+	"super" : "UMLNamespace",
+	"category" : "UML-Core-Model-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"associations",
+		"attributes",
+		"classifierInStates",
+		"classifierRoles",
+		"createActions",
+		"instances",
+		"objectFlowStates",
+		"operation",
+		"ownedCollaborationInstanceSets",
+		"ownedCollaborations",
+		"ownedConnectors",
+		"ownedPorts",
+		"powertypeGeneralizations",
+		"typedFeatures",
+		"typedParameters"
+	],
+	"name" : "UMLClassifier",
+	"type" : "normal"
+}

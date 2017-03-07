@@ -1,0 +1,1 @@
+An include relationship defines that a use case contains the behavior defined in another use case

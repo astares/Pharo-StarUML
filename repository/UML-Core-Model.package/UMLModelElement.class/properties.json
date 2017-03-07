@@ -1,0 +1,27 @@
+{
+	"commentStamp" : "TorstenBergmann 3/7/2017 22:04",
+	"super" : "UMLNamedElement",
+	"category" : "UML-Core-Model-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"behaviors",
+		"clientDependencys",
+		"comments",
+		"container",
+		"contentRoles",
+		"defaultParameters",
+		"elementImports",
+		"frame",
+		"isSpecification",
+		"namespace",
+		"parameterOwner",
+		"supplierDependencys",
+		"templateArgument",
+		"templateParameters",
+		"visibility"
+	],
+	"name" : "UMLModelElement",
+	"type" : "normal"
+}

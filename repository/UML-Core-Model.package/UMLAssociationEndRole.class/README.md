@@ -1,0 +1,1 @@
+An association-end role specifies an endpoint of an association as used in a collaboration.

@@ -1,0 +1,1 @@
+A change event models an event that occurs when an explicit boolean expression becomes true as a result of a change in value of one or more attributes or associations.

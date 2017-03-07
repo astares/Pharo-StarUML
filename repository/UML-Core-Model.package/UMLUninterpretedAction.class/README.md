@@ -1,0 +1,1 @@
+An uninterpreted action represents an action that is not explicitly reified in the UML.

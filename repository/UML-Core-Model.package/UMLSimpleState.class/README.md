@@ -1,0 +1,1 @@
+A SimpleState is a state that does not have substates.

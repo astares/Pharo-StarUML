@@ -1,0 +1,1 @@
+A destroy action is an action that results in the destruction of an object specified in the action.

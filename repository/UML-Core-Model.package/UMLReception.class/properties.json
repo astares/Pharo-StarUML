@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "TorstenBergmann 3/7/2017 22:04",
+	"super" : "UMLBehavioralFeature",
+	"category" : "UML-Core-Model-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isAbstract",
+		"isLeaf",
+		"isRoot",
+		"signal",
+		"specification"
+	],
+	"name" : "UMLReception",
+	"type" : "normal"
+}

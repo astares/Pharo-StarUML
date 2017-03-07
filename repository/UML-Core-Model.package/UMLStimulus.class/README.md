@@ -1,0 +1,1 @@
+A stimulus reifies a communication between two instances.

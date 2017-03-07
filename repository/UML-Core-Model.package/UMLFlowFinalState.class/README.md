@@ -1,0 +1,1 @@
+A flow final state is a final state that terminates a flow.

@@ -1,0 +1,1 @@
+XMI Core Element identified by a unique ID

@@ -1,0 +1,1 @@
+A transition is a directed relationship between a source state vertex and a target state vertex.

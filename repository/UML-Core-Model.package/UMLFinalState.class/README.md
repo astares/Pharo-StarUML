@@ -1,0 +1,1 @@
+A special kind of state signifying that the enclosing composite state is completed. If the enclosing state is the top state, then it means that the entire state machine has completed. There can be one or more final states in a state machine.

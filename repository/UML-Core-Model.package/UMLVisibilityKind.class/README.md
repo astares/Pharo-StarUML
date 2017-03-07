@@ -1,0 +1,1 @@
+In the metamodel VisibilityKind defines an enumeration that denotes how the element to which it refers is seen outside the enclosing name space.

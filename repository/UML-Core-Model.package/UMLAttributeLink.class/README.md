@@ -1,0 +1,1 @@
+An attribute link is a named slot in an instance, which holds the value of an attribute.

@@ -1,0 +1,1 @@
+A component instance is an instance of a component that resides on a node instance. A component instance may have a state.

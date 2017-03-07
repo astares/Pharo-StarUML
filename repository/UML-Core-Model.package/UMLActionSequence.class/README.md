@@ -1,0 +1,1 @@
+An action sequence is a collection of actions.

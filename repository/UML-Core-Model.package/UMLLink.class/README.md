@@ -1,0 +1,1 @@
+The link construct is a connection between instances.
