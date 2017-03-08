@@ -1,4 +1,5 @@
 examples
 example
-
-	^self import: 'C:\learn\XMI\Simple.xml' asFileReference readStream contentsOfEntireFile readStream
+	|s|
+	s := 'C:\learn\XMI\Simple.xml' asFileReference readStream contentsOfEntireFile readStream.
+	^(self import: s) project inspect
