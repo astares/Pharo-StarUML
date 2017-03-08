@@ -1,10 +1,10 @@
 *UML-Tools-Core
-gtInspectorOwnedElementsIn: composite
-    <gtInspectorPresentationOrder: 40>
+gtInspectorAttributesIn: composite
+    <gtInspectorPresentationOrder: 20>
     <gtInspectorTag: #basic> 
     <gtInspectorTag: #uml> 
  
  	^(composite list)
-		title: 'Owned Elements';
+		title: 'Attributes';
 		icon: [:each | each modelExplorerIcon ];
-		display: [ self ownedElements ]
+		display: [ self attributes ]

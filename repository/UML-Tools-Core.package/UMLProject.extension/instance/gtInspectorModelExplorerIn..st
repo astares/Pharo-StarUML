@@ -6,6 +6,7 @@ gtInspectorModelExplorerIn: composite
  
  	^(composite tree)
 		title: 'Model Explorer';
-		display: [ self ownedElements ];
+		display: [ self ];
+		icon: [:each | each modelExplorerIcon ];
 		children: [ :each | each modelExplorerChildren ];
 		when: [ self hasOwnedElements ]
