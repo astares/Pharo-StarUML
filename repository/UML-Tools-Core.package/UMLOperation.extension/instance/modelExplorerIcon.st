@@ -1,5 +1,5 @@
 *UML-Tools-Core
 modelExplorerIcon
 
-	^UMLIconProvider umlOperation
+	^UMLIconProvider umlOperationIcon 
 	

@@ -13,7 +13,7 @@
 		"createActions",
 		"instances",
 		"objectFlowStates",
-		"operation",
+		"operations",
 		"ownedCollaborationInstanceSets",
 		"ownedCollaborations",
 		"ownedConnectors",
