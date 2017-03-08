@@ -1,0 +1,4 @@
+*UML-Tools-Core
+modelExplorerChildren
+
+	^#()
