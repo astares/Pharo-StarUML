@@ -1,4 +1,4 @@
 *UML-Tools-Core
 modelExplorerIcon
 
-	^self class modelExplorerIcon 
+	^UMLIconProvider umlActorIcon 
