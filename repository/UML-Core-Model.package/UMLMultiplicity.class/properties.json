@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TorstenBergmann 3/9/2017 21:57",
+	"super" : "XMIElement",
+	"category" : "UML-Core-Model-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"range"
+	],
+	"name" : "UMLMultiplicity",
+	"type" : "normal"
+}
