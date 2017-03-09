@@ -1,0 +1,6 @@
+private - icons
+umlGeneralizationIconContents
+
+	^'iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAARklEQVR42mNkoBAwkqD2Pzb1
+xBrwHwgYGBkZMfQQYwBYM1wDmiGEDEDRjM0QfAb8ZyAMGOkWiKMGDAkDiEk0DAwUugArAACi
+yBcRW+8UYgAAAABJRU5ErkJggg=='

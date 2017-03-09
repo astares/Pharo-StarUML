@@ -1,0 +1,5 @@
+private - icons
+umlAssociationIconContents
+
+	^'iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAIklEQVR42mNkoBAwDikD/mNT
+P2rAqAGDy4D/RBpCkQuwAgAVfwwR9xewmQAAAABJRU5ErkJggg=='
