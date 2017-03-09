@@ -1,9 +1,7 @@
 *UML-Tools-Core
 modelExplorerChildren
 
-	^OrderedCollection new 	
-		addAll: self attributes;
-		addAll: self operations;
+	^super modelExplorerChildren 		 
 		addAll: self templateParameters;
 		yourself
 	
