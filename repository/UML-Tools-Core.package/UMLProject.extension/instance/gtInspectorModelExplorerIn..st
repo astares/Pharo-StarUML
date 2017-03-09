@@ -1,6 +1,6 @@
 *UML-Tools-Core
 gtInspectorModelExplorerIn: composite
-    <gtInspectorPresentationOrder: 30>
+    <gtInspectorPresentationOrder: 1>
     <gtInspectorTag: #basic> 
     <gtInspectorTag: #uml> 
  
