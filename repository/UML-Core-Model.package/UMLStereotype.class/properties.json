@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "TorstenBergmann 3/9/2017 20:37",
+	"super" : "XMIElement",
+	"category" : "UML-Core-Model-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"description",
+		"extendedElement",
+		"name"
+	],
+	"name" : "UMLStereotype",
+	"type" : "normal"
+}
