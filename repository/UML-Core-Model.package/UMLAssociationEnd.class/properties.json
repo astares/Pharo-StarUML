@@ -6,7 +6,7 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"aggregationKind",
+		"aggregation",
 		"association",
 		"associationEndRoles",
 		"changeability",

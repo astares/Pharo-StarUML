@@ -1,4 +1,4 @@
-importing-code
+importing - parts
 objectsOfRelationShip: relationshipTagName from: anXMINode
 
 	| el |

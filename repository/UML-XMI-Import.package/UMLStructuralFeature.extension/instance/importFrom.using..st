@@ -2,7 +2,7 @@
 importFrom: anXMINode using: anImporter 
 	 
 	super importFrom: anXMINode using: anImporter.
-	changeability := (anXMINode attributeAt: 'changeability' ifAbsent: #changeable) asSymbol.
-	targetScope := (anXMINode attributeAt: 'targetScope' ifAbsent: #instance) asSymbol.
-	ordering := (anXMINode attributeAt: 'ordering' ifAbsent: #unordered) asSymbol.
+	changeability := anImporter symbolAttribute: 'changeability' from: anXMINode default: #changeable.	
+	targetScope := anImporter symbolAttribute: 'targetScope' from: anXMINode default: #instance.	
+	ordering := anImporter symbolAttribute: 'ordering' from: anXMINode default: #unordered.
 	multiplicity := (anImporter objectOfRelationShip: 'StructuralFeature.multiplicity' from: anXMINode).

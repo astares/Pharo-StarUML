@@ -9,4 +9,5 @@ gtInspectorConnectionsIn: composite
 		icon: [:each | each modelExplorerIcon ];
 		display: [ self connections ];
 		column: 'ID' evaluated: #id;
-		column: 'Navigable' evaluated: #isNavigable
+		column: 'Navigable' evaluated: #isNavigable";
+		column: 'Aggregation' evaluated: #aggregation"
