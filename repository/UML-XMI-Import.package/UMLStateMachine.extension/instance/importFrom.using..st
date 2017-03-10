@@ -2,5 +2,7 @@
 importFrom: anXMINode using: anImporter 
 	 
 	super importFrom: anXMINode using: anImporter.
-	self top: (anImporter objectOfRelationShip: 'StateMachine.top' from: anXMINode)
+	self
+		context: (anImporter refAttribute: 'context' from: anXMINode);
+		top: (anImporter objectOfRelationShip: 'StateMachine.top' from: anXMINode)
 		

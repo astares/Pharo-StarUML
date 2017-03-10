@@ -2,7 +2,8 @@
 importFrom: anXMINode using: anImporter 
 	 
 	super importFrom: anXMINode using: anImporter.
-	visibility := (anXMINode attributeAt: 'visibility' ifAbsent: 'public') asSymbol.
-	isSpecification := (anXMINode attributeAt: 'isSpecification' ifAbsent: 'false') = 'true'.
-	self templateParameters: (anImporter objectsOfRelationShip: 'ModelElement.templateParameter' from: anXMINode)
+	self 
+		visibility: (anImporter symbolAttribute: 'visibility' from: anXMINode default: #public);
+		isSpecification: (anImporter booleanAttribute: 'isSpecification' from: anXMINode);
+		templateParameters: (anImporter objectsOfRelationShip: 'ModelElement.templateParameter' from: anXMINode)
 	

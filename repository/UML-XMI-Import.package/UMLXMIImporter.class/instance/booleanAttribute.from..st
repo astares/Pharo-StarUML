@@ -1,4 +1,4 @@
 importing - parts
 booleanAttribute: aString from: anXMINode 
-	^(anXMINode attributeAt: aString ifAbsent: 'false') = 'true'.
+	^(self attribute: aString from: anXMINode default: 'false') = 'true'.
 	 

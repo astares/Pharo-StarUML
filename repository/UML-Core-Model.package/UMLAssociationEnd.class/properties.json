@@ -16,7 +16,8 @@
 		"ordering",
 		"participant",
 		"qualifiers",
-		"targetScope"
+		"targetScope",
+		"type"
 	],
 	"name" : "UMLAssociationEnd",
 	"type" : "normal"

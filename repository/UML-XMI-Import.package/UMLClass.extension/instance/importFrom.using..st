@@ -2,4 +2,4 @@
 importFrom: anXMINode using: anImporter 
 	 
 	super importFrom: anXMINode using: anImporter.
-	isActive := anImporter booleanAttribute: 'isActive' from: anXMINode 
+	self isActive: (anImporter booleanAttribute: 'isActive' from: anXMINode)

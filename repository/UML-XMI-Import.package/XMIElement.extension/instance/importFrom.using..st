@@ -1,4 +1,4 @@
 *UML-XMI-Import
-importFrom: aXMINode using: anUMLXMIImporter 
+importFrom: anXMINode using: anImporter 
 	 
-	uuid := aXMINode attributes at: #'xmi.uuid' ifAbsent: ''
+	self uuid: (anImporter attribute: 'xmi.uuid' from: anXMINode default: '')

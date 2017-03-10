@@ -1,4 +1,6 @@
 *UML-XMI-Import
-importFrom: aXMINode using: anUMLXMIImporter 
-	super importFrom: aXMINode using: anUMLXMIImporter.
-	id := aXMINode attributes at: #'xmi.id'
+importFrom: anXMINode using: anImporter 
+	super importFrom: anXMINode using: anImporter.
+	self id: (anImporter attribute: 'xmi.id' from: anXMINode default: '')
+	
+	 

@@ -2,6 +2,7 @@
 importFrom: anXMINode using: anImporter 
 	 
 	super importFrom: anXMINode using: anImporter.
-	child := anXMINode attributeAt: 'child' ifAbsent: nil.
-	parent := anXMINode attributeAt: 'parent' ifAbsent: nil.
-	discriminator := anXMINode attributeAt: 'discriminator' ifAbsent: nil.	
+	self 
+		child: (anImporter refAttribute: 'child' from: anXMINode);
+		parent: (anImporter refAttribute: 'parent' from: anXMINode);
+		discriminator: (anImporter attribute: 'discriminator' from: anXMINode default: '')

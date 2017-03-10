@@ -2,5 +2,6 @@
 importFrom: anXMINode using: anImporter 
 	 
 	super importFrom: anXMINode using: anImporter.
-	name := anXMINode attributeAt: 'name' ifAbsent: nil.
-	extendedElement := anXMINode attributeAt: 'extendedElement' ifAbsent: nil
+	self 
+		name: (anImporter attribute: 'name' from: anXMINode default: '');
+		extendedElement: (anImporter refAttribute: 'extendedElement' from: anXMINode)
