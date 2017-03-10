@@ -4,7 +4,7 @@ importFrom: anXMINode using: anImporter
 	super importFrom: anXMINode using: anImporter.
 	self 
 		isRoot: (anImporter booleanAttribute: 'isRoot' from: anXMINode);
-		isLeave: (anImporter booleanAttribute: 'isLeave' from: anXMINode);
+		isLeaf: (anImporter booleanAttribute: 'isLeaf' from: anXMINode);
 		isAbstract: (anImporter booleanAttribute: 'isAbstract' from: anXMINode)
 		
 	

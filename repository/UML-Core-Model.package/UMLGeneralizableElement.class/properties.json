@@ -8,7 +8,7 @@
 	"instvars" : [
 		"generalizations",
 		"isAbstract",
-		"isLeave",
+		"isLeaf",
 		"isRoot",
 		"specializations"
 	],
