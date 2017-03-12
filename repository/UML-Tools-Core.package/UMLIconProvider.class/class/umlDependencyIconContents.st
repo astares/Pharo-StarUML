@@ -1,0 +1,6 @@
+private - icons
+umlDependencyIconContents
+
+	^'iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAQklEQVR42mNkoBAwkqD2Pzb1
+xBrwH5ceYgyA2YxOE2XAfxxq4OKMJGjGyiclELECusUCVQwY9QIBF/xH4uNjU98LANRyExEL
+qnyfAAAAAElFTkSuQmCC'
