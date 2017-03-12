@@ -9,4 +9,5 @@ importFrom: anXMINode using: anImporter
 		ordering: (anImporter symbolAttribute: 'ordering' from: anXMINode default: #unordered);
 		changeability: (anImporter symbolAttribute: 'changeability' from: anXMINode default: #changeable);
 		association: (anImporter refAttribute: 'association' from: anXMINode);
-		type: (anImporter refAttribute: 'type' from: anXMINode)
+		type: (anImporter refAttribute: 'type' from: anXMINode);
+		multiplicity: (anImporter objectOfRelationShip: 'AssociationEnd.multiplicity' from: anXMINode)

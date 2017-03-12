@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "TorstenBergmann 3/9/2017 21:57",
-	"super" : "XMIElement",
+	"super" : "UMLElement",
 	"category" : "UML-Core-Model-Model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
