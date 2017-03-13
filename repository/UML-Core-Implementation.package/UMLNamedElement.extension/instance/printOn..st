@@ -1,4 +1,5 @@
 *UML-Core-Implementation
 printOn: aStream
-
-	name ifNotNil: [ aStream nextPutAll: name asString ] ifNil: [ super printOn: aStream ]  
+	(#(nil '') includes: name) 
+		ifTrue: [ super printOn: aStream ]
+		ifFalse: [ aStream nextPutAll: name asString ]
