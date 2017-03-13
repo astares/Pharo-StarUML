@@ -1,13 +1,13 @@
 {
-	"commentStamp" : "TorstenBergmann 3/13/2017 23:30",
-	"super" : "UMLGeneralizableElement",
+	"commentStamp" : "",
+	"super" : "UMLElement",
 	"category" : "UML-Core-Model-Model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"ownedElements"
+		"body"
 	],
-	"name" : "UMLNamespace",
+	"name" : "UMLExpression",
 	"type" : "normal"
 }
