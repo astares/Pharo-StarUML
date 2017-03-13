@@ -1,6 +1,7 @@
 importing - parts
 readObjectFrom: aXMINode 
 	|object|
-	object := ('UML',aXMINode tagName) asSymbol asClass new.
+	object := (self class environment  at: ('UML',aXMINode tagName) asSymbol) new.
 	object importFrom: aXMINode using: self.
+	self registerImportedObject: object.
 	^object

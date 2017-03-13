@@ -7,7 +7,8 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"stream",
-		"project"
+		"project",
+		"refs"
 	],
 	"name" : "UMLXMIImporter",
 	"type" : "normal"
