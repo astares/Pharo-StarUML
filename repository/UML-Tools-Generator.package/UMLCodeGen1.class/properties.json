@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "UML-Tools-Generator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stamp",
+		"project",
+		"stream",
+		"package",
+		"tag",
+		"theClass"
+	],
+	"name" : "UMLCodeGen1",
+	"type" : "normal"
+}
